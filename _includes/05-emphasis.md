@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+This is an example of using the markdown language in order to put emphasis on different things. **this is BOLD** and this is _italacized_! :smile
