@@ -1,3 +1,3 @@
-*Hiking
-*Swimming
-*Eatting great food!
+* Hiking
+* Swimming
+* Eatting great food!
